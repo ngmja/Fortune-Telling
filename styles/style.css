@@ -1,0 +1,22 @@
+/* html {
+    background-color: green;
+} */
+
+.omikuji {
+    padding: 20px;
+    text-align: center;
+    border: 5px solid #666;
+}
+
+.omikuji_headline {
+    margin-bottom: 20px;
+}
+
+.omikuji_result {
+    margin-bottom: 20px;
+}
+
+.omikuji_button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
